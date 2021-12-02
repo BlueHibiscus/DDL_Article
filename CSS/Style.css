@@ -232,7 +232,7 @@ main .site-title.btn:hover{
 /*  BLOG CAOOURSEL  */
 
 main .blog{
-    background: url('../ASSETS/newset.png');;
+    background: url('../ASSETS/newset.png ');;
     
     background-position: center;
     background-size: cover;
